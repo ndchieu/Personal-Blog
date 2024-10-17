@@ -927,6 +927,7 @@ h3.my-profession {
         font-size: 2rem;
     }
     .home .home-img {
+        margin-top: 20px;
         display: block;
     }
     .home .home-img img {
