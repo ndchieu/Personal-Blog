@@ -926,22 +926,17 @@ h3.my-profession {
         margin: 12px;
         font-size: 2rem;
     }
+    .home .home-img {
+        display: block;
+    }
+    .home .home-img img {
+        height: 315px;
+        object-fit: cover;
+    }
 }
 
 
 /*----LOGIN CSS----*/
-
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-html {
-    color: #333;
-    font-size: 62.5%;
-    font-family: "Open Sans", sans-serif;
-}
 
 .main {
     background: #f1f1f1;
